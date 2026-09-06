@@ -1,0 +1,2 @@
+# Execution-Finality-for-Protected-AI-Model-State-Release-RATS-Reference-Implementation
+Low-overhead execution-finality reference implementation for AI/GPU environments: bounded non-bearer authority, atomic extraction-state control, Finality Sink enforcement, RATS attestation mapping, and performance-aware paths for multi-GPU, streaming, batching, confidential computing, DPU/SmartNIC, firmware, and silicon.
